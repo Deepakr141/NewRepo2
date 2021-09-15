@@ -1,0 +1,22 @@
+AZURE LOGIN : poc.kryptos@outlook.com
+AZURE PASS : Kryptos@141
+
+
+Application Insights:
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
+
+https://docs.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=netcore31&pivots=development-environment-vs        IMPORTANT   
+
+https://azure.github.io/AppService/2019/11/01/App-Service-Integration-with-Azure-Monitor.html                                    IMPORTANT
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/app/continuous-monitoring#:~:text=for%20manual%20intervention.-,Configure%20continuous%20monitoring,on%20the%20page%20that%20appears
+
+PARAMETERS WHICH CAN BE MONITORED : https://docs.microsoft.com/en-us/azure/azure-monitor/monitor-reference
+
+You Tube Link : Azure Monitor - https://www.youtube.com/watch?v=6yzPx983w9A
+
+You Tube link : Azure Application Insights : https://www.youtube.com/watch?v=A0jAeGf2zUQ    (USEFUL AND RELEVANT VIDEO)
+
+You Tube Link : What to use for Monitoring : https://www.youtube.com/watch?v=Zr7LcSr6Ooo
+

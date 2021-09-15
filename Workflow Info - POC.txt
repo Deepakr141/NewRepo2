@@ -1,0 +1,23 @@
+
+Azure Application insights   - Used for monitoring the applications (Hosted in Azure Portal)
+
+INSIGHTS IN AZURE DEVOPS:
+* Application Insights
+* Container Insights
+* VM Insights
+
+WHAT ARE THE PARAMETERS AZURE MONITOR CAN COLLECT?
+* Application Monitoring data
+* Guest Os Monitoring Data
+* Azure Subscription Monitoring
+* Azure Tenant Monitoring Data
+
+VISUALIZING MONITORING DATA:
+* Dashboard Creation
+
+ALERTS:
+* Alerts Can be set 
+
+https://pocwebapp20210914104123.azurewebsites.net/Account/Login?ReturnUrl=%2F
+
+
